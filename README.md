@@ -1,2 +1,2 @@
 # Sistema-de-particulas
-Sistema de partículas
+Sistema de partículas para la clase de Ingeniería de Software de la carrera....
