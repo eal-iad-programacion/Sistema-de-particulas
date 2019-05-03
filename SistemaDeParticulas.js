@@ -3,4 +3,5 @@ class SistemaDeParticulas{
   aplicarFuerza(fuerza){}
   //cambio en la rama1
   mover(){}
+  show(){}
 }

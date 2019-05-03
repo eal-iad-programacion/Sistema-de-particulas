@@ -7,4 +7,5 @@ function setup() {
 function draw() {
   background(220);
   sistema_de_particulas.mover();
+  sistema_de_particulas.show();
 }
