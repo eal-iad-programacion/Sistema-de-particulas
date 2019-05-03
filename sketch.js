@@ -1,6 +1,7 @@
+let sistema_de_particulas;
 function setup() {
   createCanvas(400, 400);
-  let sistema_de_particulas = new SistemaDeParticulas();
+  sistema_de_particulas = new SistemaDeParticulas();
 }
 
 function draw() {
