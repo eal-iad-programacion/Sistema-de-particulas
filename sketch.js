@@ -4,5 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
-  var sdp = new SistemaDeParticulas();
+  var sdp = new SistemaDeParticulas(50);
 }
