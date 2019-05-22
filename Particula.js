@@ -1,6 +1,6 @@
 class Particula{
   constructor(){
-    this.position=createVector();
-    this.velocity=createVector();
+    this.posicion  = createVector();
+    this.velocidad = createVector();
   }
 }
